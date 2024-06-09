@@ -1,2 +1,2 @@
-# JBT
-Jones Beach Theater
+# JBT API
+Jones Beach Theater API
