@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "33PPasyIQgzNQ7G0naBOE9bL8oJezYe5xeLSrezFyeE=",
+  "Source": "JBT-Server",
+  "BasePath": "_content/JBT-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
