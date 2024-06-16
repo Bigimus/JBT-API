@@ -10,7 +10,7 @@
   },
   "profiles": {
     "http": {
-      "commandName": "Release",
+      "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -20,7 +20,7 @@
       }
     },
     "https": {
-      "commandName": "Release",
+      "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -36,6 +36,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "Release":{
+      "commandName": ""
     }
   }
 }
