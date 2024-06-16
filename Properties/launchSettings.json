@@ -4,12 +4,13 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "https://jbt-api.azurewebsites.net/"
+      "applicationUrl": "http://localhost:51162",
+      "sslPort": 44302
     }
   },
   "profiles": {
     "http": {
-      "commandName": "Project",
+      "commandName": "Release",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -19,7 +20,7 @@
       }
     },
     "https": {
-      "commandName": "Project",
+      "commandName": "Release",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
