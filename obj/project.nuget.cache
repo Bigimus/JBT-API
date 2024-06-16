@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jtls+nl1WE1OSv9wawdXfTZU1ywwdEnEuAIgdd8ZW9cfco26AuZso/K/73Povg68R40LZcVbI58S/AKpZj1W7A==",
+  "dgSpecHash": "Fdz6wZfjUlXicHqRWPGrXIjl1bFkU0mVQYg+96PGkyV2AUaLs6aBeYxCVKsTWmrut44o1cPC240xykqoDYCrHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\JBT-Server.csproj",
+  "projectFilePath": "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\JBT-Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\briho\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\briho\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

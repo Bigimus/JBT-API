@@ -1,4 +1,4 @@
-@JBT_Server_HostAddress = http://localhost:5124
+@JBT_Server_HostAddress = https://jbt-api.azurewebsites.net/
 
 GET {{JBT_Server_HostAddress}}/weatherforecast/
 Accept: application/json

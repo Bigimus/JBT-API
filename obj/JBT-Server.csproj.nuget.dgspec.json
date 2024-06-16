@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\JBT-Server.csproj": {}
+    "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\JBT-Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\JBT-Server.csproj": {
+    "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\JBT-Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\JBT-Server.csproj",
+        "projectUniqueName": "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\JBT-Server.csproj",
         "projectName": "JBT-Server",
-        "projectPath": "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\JBT-Server.csproj",
+        "projectPath": "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\JBT-Server.csproj",
         "packagesPath": "C:\\Users\\briho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\briho\\Desktop\\Project\\JBT-Server\\obj\\",
+        "outputPath": "C:\\Users\\briho\\Desktop\\Directories\\Old Projects\\JBT-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\briho\\AppData\\Roaming\\NuGet\\NuGet.Config",
